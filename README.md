@@ -1,24 +1,61 @@
-# Website Demo
+🌐 Personal Portfolio Website
 
-This is a public demo of a website project.
+This repository contains the full public version of my personal website, showcasing my work, projects, and creative experiments.
 
-## Purpose
-- Demonstrates layout and design
-- Limited features
-- Not the full website
+The site is designed to reflect a small portion of my skills, growth, and attention to detail across web development and digital media. It is published openly for viewing, inspiration, and evaluation purposes.
 
-## What this is NOT
-- Not a free template
-- Not licensed for commercial use
-- Not intended for deployment
+🚀 Live Preview
 
-## License
-This demo is not licensed for commercial use.
+If deployed, you can view the live site here:
+👉 []
 
-## Want the full version?
-The complete website, additional pages, and customization
-are available upon request.
+📁 What’s Inside
 
-Contact if interested:
-- GitHub: @SirongaDeOrora
-- Email: sirongadeorora@gmail.com
+Fully built and styled website
+
+Responsive layout (desktop & mobile)
+
+Custom UI/UX decisions
+
+Real projects and showcased work
+
+Clean, organized codebase
+
+👀 Intended Use
+
+This repository is public for viewing only.
+
+You are welcome to:
+
+Explore the code
+
+Review structure and implementation
+
+Learn from techniques used
+
+You may not:
+
+Reuse the website design as-is
+
+Copy branding, layout, or content for commercial use
+
+Redistribute or resell this project
+
+(See license below for details.)
+
+🛠️ Tech Stack
+
+HTML
+
+CSS
+
+JavaScript
+(Add frameworks or tools if used)
+
+📌 Notes
+
+This is the complete version of the website
+
+Actively improved and refined over time
+
+Feedback is welcome via issues or discussions
